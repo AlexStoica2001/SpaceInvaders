@@ -1,4 +1,4 @@
-# SpaceInvaders
+# Space Invaders
 Space Invaders game made in Python with Tkinter.
 
 Extra features included:
